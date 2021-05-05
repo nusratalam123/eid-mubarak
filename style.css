@@ -1,0 +1,17 @@
+.header{
+    color: red;
+    text-align: center;
+}
+.second{
+    height: 500px;
+    width: 600px;
+   margin: 50px 400px;
+   padding-bottom: 50px;
+}
+.third-image{
+    width: 100%;
+    height:100%;
+}
+.title{
+    text-align: center;
+}
